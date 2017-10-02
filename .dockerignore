@@ -2,7 +2,10 @@
 *
 
 # White list only the required files
-!**/*.go
-!proxy/*.go
-!scripts/*.sh
+!analytics/*.go
+!clock/*.go
+!config/*.go
+!scripts
+!stubs/*.go
+!*.go
 !vendor
