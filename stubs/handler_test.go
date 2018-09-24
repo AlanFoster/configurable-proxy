@@ -1,4 +1,4 @@
-package proxy
+package stubs
 
 import (
 	"net/http"
